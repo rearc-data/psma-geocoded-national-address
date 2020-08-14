@@ -5,7 +5,7 @@
 PSMA Geocoded National Address File | Australian Government Data / PSMA
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-3gdejc2lyqjp2](https://aws.amazon.com/marketplace/pp/prodview-3gdejc2lyqjp2). 
 
 ## Main Overview
 
