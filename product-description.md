@@ -11,7 +11,7 @@ The included data is provided by PSMA Australia Limited(PSMA), which is a public
 
 #### Data Source
 
-This resource is provided in the ZIP format, which can be unzipped later on to view all the contents of the dataset. 
+This resource is provided in the TXT, PDF, SQL, PSV, and CSV formats. 
 
 ## More Information
 - Source: [Australian Government](https://data.gov.au/data/dataset/19432f89-dc3a-4ef3-b943-5326ef1dbecc)
