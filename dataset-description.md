@@ -1,0 +1,1 @@
+This release contains information on Australia's geocoded address file, The Geocoded National Address File (G-NAF). The G-NAF contains more than thirteen million records on physical Australian addresses and only contains geocode information(latitude/longitude map coordinates), no names or personal information are given.
