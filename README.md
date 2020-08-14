@@ -22,7 +22,7 @@ This resource is provided in the ZIP format, which can be unzipped later on to v
 -  [Australian Government Data Homepage](https://data.gov.au/data/)
 -  [End User License Agreement](https://data.gov.au/dataset/ds-dga-19432f89-dc3a-4ef3-b943-5326ef1dbecc/distribution/dist-dga-09f74802-08b1-4214-a6ea-3591b2753d30/details?q=)
 - Frequency: Quarterly
-- Formats: This resource is provided in the ZIP format, which can be unzipped later on to view all the contents of the dataset.
+- Formats: TXT, PDF, SQL, PSV, CSV
 
 ## Contact Details
 - If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/psma-geocoded-national-address/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
